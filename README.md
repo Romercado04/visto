@@ -14,8 +14,8 @@ ________________________________________
 📥 Clonar el repositorio
 bash
 CopiarEditar
-git clone https://github.com/TU_USUARIO/cinelog-app.git
-cd cinelog-app
+git clone https://github.com/Romercado04/visto.git
+cd visto-app
 ________________________________________
 🗂️ Estructura general del proyecto
 scss
