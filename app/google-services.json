@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997548146341",
+    "project_id": "visto-48a57",
+    "storage_bucket": "visto-48a57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997548146341:android:e60199d9a38972a561174c",
+        "android_client_info": {
+          "package_name": "com.example.visto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997548146341-c82n8so8akuep3t4nc070u5dl3h6os0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visto",
+            "certificate_hash": "42035c2553cec162e9ca5b5eba1216634f6d7ac8"
+          }
+        },
+        {
+          "client_id": "997548146341-kjm16uekd88lkbd2dled7vn165dt03io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dPxw_YFuwtMRDePOwzLZ8I67jL71Njw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997548146341-kjm16uekd88lkbd2dled7vn165dt03io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
