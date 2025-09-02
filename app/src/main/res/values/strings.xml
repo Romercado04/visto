@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">visto</string>
+    <string name="default_web_client_id">
+    997548146341-kjm16uekd88lkbd2dled7vn165dt03io.apps.googleusercontent.com
+</string>
+
 </resources>
